@@ -8,5 +8,6 @@ namespace GitApplication.Models
     public class Test
     {
         //Test edited in git
+        //added new feature1
     }
 }

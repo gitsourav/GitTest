@@ -7,6 +7,6 @@ namespace GitApplication.Models
 {
     public class feature1
     {
-        //code to call feature1
+        //code to call feature 1
     }
 }
