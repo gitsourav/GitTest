@@ -7,5 +7,6 @@ namespace GitApplication.Models
 {
     public class Test
     {
+        //Test added
     }
 }
