@@ -10,9 +10,9 @@ namespace GitApplication.Models
         //code to call feature 1
         public void Add()
         {
-            int a =1 ;
-            int b= 2;
-            int c = a + b;
+            var a =1 ;
+            var b= 2;
+            var c = a + b;
         }
     }
 }
