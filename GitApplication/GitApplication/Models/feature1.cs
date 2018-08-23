@@ -5,9 +5,8 @@ using System.Web;
 
 namespace GitApplication.Models
 {
-    public class Test
+    public class feature1
     {
-        //Test edited in git
-        //added new feature1
+        //code to call feature 1
     }
 }
