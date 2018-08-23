@@ -7,6 +7,6 @@ namespace GitApplication.Models
 {
     public class Test
     {
-        //Test edited in git123
+        //Test edited in git
     }
 }
