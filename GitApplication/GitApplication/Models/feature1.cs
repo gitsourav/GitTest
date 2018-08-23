@@ -8,11 +8,9 @@ namespace GitApplication.Models
     public class Feature1
     {
         //code to call feature 1
-        public void Add()
+        public int Add(int a, int b)
         {
-            int a =1 ;
-            int b= 2;
-            int c = a + b;
+            return a + b;
         }
     }
 }
