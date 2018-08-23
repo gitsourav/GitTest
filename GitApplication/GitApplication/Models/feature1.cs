@@ -5,7 +5,7 @@ using System.Web;
 
 namespace GitApplication.Models
 {
-    public class feature1
+    public class Feature1
     {
         //code to call feature 1
     }
