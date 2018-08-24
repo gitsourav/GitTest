@@ -9,5 +9,7 @@ namespace GitApplication.Models
     {
         //Test edited in git
         //added new feature1
+
+        //added new code to call feature2
     }
 }
